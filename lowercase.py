@@ -7,7 +7,7 @@ while True:
     if response == "y":
         print(string.lower())
         continue
-    elif response == "n" or response == "no" or response == "N":
+    elif response == "n":
         print("Goobye!")
         break
     elif response == "":
