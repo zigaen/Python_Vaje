@@ -3,7 +3,8 @@ response = ""
 while True:
     string = input("Input a random sentence, use lower and uppercase: ")
     response = input("Would you like to see lowercase transition of your sentence? (Y/N):  ")
-    if response == "y" or response == "Y" or response == "yes":
+    response = response.lower()
+    if response == "y":
         print(string.lower())
         continue
     elif response == "n" or response == "no" or response == "N":
