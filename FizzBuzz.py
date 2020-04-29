@@ -1,7 +1,7 @@
-SEARCH = int(input("Select a number between 1 and 100!:  "))
+UPPER_COUNT_LIMIT = int(input("Select a number between 1 and 100!:  "))
 number = 0
 
-while number != SEARCH:
+while number != UPPER_COUNT_LIMIT:
     number = number + 1
     if (number % 15) == 0:
         print("fizzbuzz")
