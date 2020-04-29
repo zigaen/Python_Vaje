@@ -10,7 +10,7 @@ while number != UPPER_COUNT_LIMIT:
     elif (number % 5) == 0:
         print("buzz")
     else:
-        print(str(number))
+        print(number)
 
 
 
