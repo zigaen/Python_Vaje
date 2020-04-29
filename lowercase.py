@@ -1,5 +1,5 @@
-string = 0
-response = 0
+string = ""
+response = ""
 while True:
     string = input("Input a random sentence, use lower and uppercase: ")
     response = input("Would you like to see lowercase transition of your sentence? (Y/N):  ")
