@@ -1,7 +1,7 @@
 import random
 
 secret = random.randint(1,30)
-attempts = 0
+attempts =  0
 
 
 def cast_previous_score():
