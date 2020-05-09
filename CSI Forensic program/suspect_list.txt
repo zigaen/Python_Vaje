@@ -1,0 +1,4 @@
+[{"Gender": "TGAAGGACCTTC", "Race": "AAAACCTCA", "Hair_color": "TTAGCTATCGC", "eye_color": "TTGTGGTGGC", "face_shape": "AGGCCTCA", "Name": "eva"},
+{"Gender": "TGAAGGACCTTC", "Race": "AAAACCTCA", "Hair_color": "GCCAGTGCCG", "eye_color": "AAGTAGTGAC" , "face_shape": "AGGCCTCA", "Name": "larisa"},
+{"Gender": "TGCAGGAACTTC", "Race": "AAAACCTCA", "Hair_color": "CCAGCAATCGC", "eye_color": "TTGTGGTGGC" , "face_shape": "AGGCCTCA", "Name": "matej"},
+{"Gender": "TGCAGGAACTTC", "Race": "AAAACCTCA", "Hair_color": "GCCAGTGCCG", "eye_color": "GGGAGGTGGC", "face_shape": "GCCACGG", "Name": "miha"}]
