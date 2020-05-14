@@ -1,1 +1,0 @@
-[{"first_name": "Lebron", "last_name": "Johnson", "height_cm": "150", "weight_kg": "150", "points": "345", "rebounds": "34", "assists": "3456"}, {"first_name": "Magic Johnson", "last_name": "Past", "height_cm": "200", "weight_kg": "150", "points": "2345", "rebounds": "2456", "assists": "45654"}]
