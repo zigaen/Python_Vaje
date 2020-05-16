@@ -1,0 +1,66 @@
+[
+ {
+  "attempts": 6,
+  "player_name": "Rok",
+  "date": "2020-05-16 20:39:45.611979"
+ },
+ {
+  "attempts": 9,
+  "player_name": "\u017diga",
+  "date": "2020-05-16 20:41:40.837246"
+ },
+ {
+  "attempts": 30,
+  "player_name": "\u0160mihel",
+  "date": "2020-05-16 20:43:40.382465",
+  "secret": 12
+ },
+ {
+  "attempts": 33,
+  "player_name": "Dujc",
+  "date": "2020-05-16 20:46:33.517782",
+  "secret": 13
+ },
+ {
+  "attempts": 38,
+  "player_name": "Rok",
+  "date": "2020-05-16 20:47:27.209876",
+  "secret": 14
+ },
+ {
+  "attempts": 6,
+  "player_name": "Samo",
+  "date": "2020-05-16 20:48:04.980945",
+  "secret": 13
+ },
+ {
+  "attempts": 54,
+  "player_name": "Uro\u0161",
+  "date": "2020-05-16 20:48:11.650963",
+  "secret": 24
+ },
+ {
+  "attempts": 55,
+  "player_name": "Silvo",
+  "date": "2020-05-16 20:48:17.380971",
+  "secret": 7
+ },
+ {
+  "attempts": 18,
+  "player_name": "Jan",
+  "date": "2020-05-16 20:48:23.210979",
+  "secret": 11
+ },
+ {
+  "attempts": 45,
+  "player_name": "Tilen",
+  "date": "2020-05-16 20:48:27.930986",
+  "secret": 5
+ },
+ {
+  "attempts": 58,
+  "player_name": "Klemen",
+  "date": "2020-05-16 20:48:34.087004",
+  "secret": 15
+ }
+]
